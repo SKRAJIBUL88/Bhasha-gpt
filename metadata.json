@@ -1,0 +1,8 @@
+{
+  "name": "BhashaGPT",
+  "description": "India's Premium Regional AI Assistant with emotional intelligence and productivity tools.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
